@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="idCardLabel">身份证识别</string>
+    <string name="bankCardLabel">银行卡识别</string>
+    <string name="generalLabel">通用文字识别</string>
+    <string name="experiment_1">通用文字识别实验</string>
+    <string name="experiment_2">卡证文字识别实验</string>
+    <string name="experiment_3">汽车场景识别实验</string>
+    <string name="experiment_4">票据文字识别实验</string>
+    <string name="experiment_5">其他文字识别实验</string>
+</resources>

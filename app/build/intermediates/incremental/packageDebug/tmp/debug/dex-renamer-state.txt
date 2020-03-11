@@ -1,0 +1,4 @@
+#Mon Aug 19 17:03:15 CST 2019
+base.0=G\:\\3399_AI\\Debugging_Demo\\Ocr_20190801\\OCRDemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

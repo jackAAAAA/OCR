@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Aug 19 16:09:32 CST 2019
+1.base=G\:\\3399_AI\\Debugging_Demo\\Ocr_20190801\\OCRDemo\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.path=models/integrity_model_secret.bin
+0.baseType=DIRECTORY
+2.base=G\:\\3399_AI\\Debugging_Demo\\Ocr_20190801\\OCRDemo\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=models/quality_model_secret.bin
+0.set=ASSET
+0.base=G\:\\3399_AI\\Debugging_Demo\\Ocr_20190801\\OCRDemo\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.baseType=DIRECTORY
+1.path=aip.license
