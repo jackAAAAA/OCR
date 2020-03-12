@@ -87,8 +87,6 @@ sdk的包含的UI部分和demo工程以Android Studio方式提供，sdk部分则
 
 若运行提示"身份验证错误"，可能是您还未填写正确的Api Key和Secret Key，或者是还未绑定您安卓应用的包名，如何绑定包名请参考下一章节：***身份验证与安全*** 章节
 
-![](https://ai.bdstatic.com/file/22808038CABB4D87A523E00A63F86A3F)
-
 ## 身份验证与安全
 
 百度AI开放平台使用OAuth2.0授权调用开放API，调用API时必须在URL中带上accesss_token参数。AccessToken可用AK/SK或者授权文件的方式获得。安卓SDK中已经为您做了封装，当初始化完毕后，所有API请求会自动带上accesss_token参数，您也可以通过initAccessTokenWithAkSk，initAccessToken这两个函数的回调中查看。
